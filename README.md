@@ -13,7 +13,7 @@ OnTheShelf is a simple and intuitive grocery shopping application built using Je
 
 ## Screenshots
 
-<img width="1691" alt="image" src="https://github.com/user-attachments/assets/6bc252a8-1b58-4442-9e68-c44f924960c5">
+<img width="1691" alt="image" src="https://github.com/user-attachments/assets/267e63d9-9739-4244-af52-9e82457052eb">
 
 
 ## Installation
